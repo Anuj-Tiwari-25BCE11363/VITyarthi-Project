@@ -58,10 +58,19 @@ Results are saved as submission.csv in your working directory.
 For evaluation, inspect model accuracy from console outputs, and double-check submission format for Kaggle.
 
 **Screenshots**
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 094241" src="https://github.com/user-attachments/assets/2efcda59-890c-40a6-a8e9-e038eba2eca4" />
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 094256" src="https://github.com/user-attachments/assets/6e665242-26c9-438b-952b-e8b696805eea" />
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 094312" src="https://github.com/user-attachments/assets/b611648f-8b43-485a-8f7c-940ffb194bd9" />
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 094319" src="https://github.com/user-attachments/assets/eab08a1c-f2ba-45e9-84c7-cc8e9228d311" />
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 094413" src="https://github.com/user-attachments/assets/e041478e-c356-43ac-bd9b-ac0553388017" />
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 094421" src="https://github.com/user-attachments/assets/931e16d1-fbe4-4629-bea8-d85282c6a876" />
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 094426" src="https://github.com/user-attachments/assets/9d13ad96-530a-47ac-ab1b-3b0e6deb121d" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 094241" src="https://github.com/user-attachments/assets/74e6a443-ac28-4dcd-8a70-3c0b53080445" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 094256" src="https://github.com/user-attachments/assets/bd3ea7c6-0a6a-4af5-b5a7-7da22c85a51f" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 094312" src="https://github.com/user-attachments/assets/bdba47f3-5ff0-4975-b291-c5164655e1ba" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 094319" src="https://github.com/user-attachments/assets/69c16d35-16b3-4b7d-ac09-41e8409c618d" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 094413" src="https://github.com/user-attachments/assets/4d5b2a38-c45e-4a54-80e8-edb98263cdd0" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 094421" src="https://github.com/user-attachments/assets/c7290c45-7e4c-429e-ab1e-8a5ed8e055ba" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 094426" src="https://github.com/user-attachments/assets/f8c518ae-581f-45e4-b1bd-7df2e70f6d4e" />
+
+
+
+
+
+
+
+
