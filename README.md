@@ -41,13 +41,18 @@ Environment Setup
 In Colab, run:
 
 bash
+
 !pip install tensorflow pandas scikit-learn
+
 Mount Google Drive
 
 python
 from google.colab import drive
+
 drive.mount('/content/drive')
+
 Run the Notebook
+
 Execute all cells, ensuring paths to datasets are correct.
 
 **Instructions for Testing**
